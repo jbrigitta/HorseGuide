@@ -1,4 +1,6 @@
-# HorseGuide
+Web-based application for testing your knowledge about horses.
+
+## HorseGuide
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
